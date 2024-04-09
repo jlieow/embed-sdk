@@ -22,7 +22,11 @@
     "extension",
     "system__activity",
     "app-lookml-diagram",
-    "hello_world"
+    "hello_world",
+    "demo_jerome"
   ],
-  "user_attributes": { "locale": "en_US", "embed_encrypted": "abcd" }
+  "user_attributes": {
+    "locale": "en_US",
+    "embed_encrypted": "abcd"
+  }
 }

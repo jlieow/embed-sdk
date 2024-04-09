@@ -17,3 +17,7 @@ server/**/*.js
 server/**/*.js.map
 .direnv
 server/public/
+demo/looker.ini
+demo/looker-cloudmile.ini
+demo/looker-otonoco.ini
+demo/looker.ini
